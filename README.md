@@ -23,4 +23,4 @@ We need your help to make this act a reality. Here are a few ways you can suppor
 
 ## Contact
 
-If you have any questions or want to get more involved, please feel free to open an issue or submit a pull request. You can also reach us at pocketdepth@proton.me.
+If you have any questions or want to get more involved, please feel free to open an issue or submit a pull request. You can also join our discord server [with this invite](https://discord.gg/rcRPvTbjue) or reach us at pocketdepth@proton.me.
